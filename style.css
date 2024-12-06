@@ -100,21 +100,21 @@ body, html {
   
 
 
-  .workscited a:link 
+  .workcited a:link 
   /* This section lets you adjust the text style for your link elements in the textblock div.  See https://www.w3schools.com/html/html_links.asp for more details. With links styles can be applied based on several factors.*/{
   text-decoration: none;
   color: blue;
 }
 
-  .workscited a:visited {
+  .workcited a:visited {
   text-decoration: none;
 }
 
-  .workscited a:hover {
+  .workcited a:hover {
   text-decoration: underline;
 }
 
-   .workscited a:active {
+   .workcited a:active {
   text-decoration: underline;
 }
 .backgroundcolor1 {
