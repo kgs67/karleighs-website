@@ -99,39 +99,6 @@ body, html {
   }
   
 
-
-  .workcited a:link 
-  /* This section lets you adjust the text style for your link elements in the textblock div.  See https://www.w3schools.com/html/html_links.asp for more details. With links styles can be applied based on several factors.*/{
-  text-decoration: none;
-  color: blue;
-}
-
-  .workcited a:visited {
-  text-decoration: none;
-}
-
-  .workcited a:hover {
-  text-decoration: underline;
-}
-
-   .workcited a:active {
-  text-decoration: underline;
-}
-.workcited h2 {
-	/* This section lets you adject the h2 heading style for text in the .textblock div/ */
-	text-align: center;
-	font-size: 1.5em;
-	font-weight: bold;
-	line-height: 1.5;
-  }
-
-.workcited p {
-    text-indent: 50px;
-    /* This section lets you adjust the text style for your paragraph element text in the textblock div. */
-	
-	font-size: 1em;
-	line-height: 1.2;
-  }
 .backgroundcolor1 {
 	/*This sets a background color that can be plugged into a div or other element. The color is specified in the hex format with an aditional alpha value to adjust opacity*/
 	background-color: #58FAA126;
